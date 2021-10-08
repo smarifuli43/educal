@@ -1,6 +1,6 @@
 # Educal - The ultimate educator
 
-Website link:
+Website link: https://educali43.netlify.app/
 
 Information about the website
 
