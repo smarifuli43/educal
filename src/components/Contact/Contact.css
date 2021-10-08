@@ -1,0 +1,8 @@
+.social-media i {
+  color: rgb(114, 114, 114);
+  transition: all .3s ease;
+}
+
+.social-media i:hover {
+  color: #5C2EDE;
+}

@@ -1,0 +1,7 @@
+.about-banner{
+  background:linear-gradient(90deg,rgba(12, 12, 12, 0.76), rgba(0, 0, 0, .6)), url('../../img/banner_image.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+  
+}
