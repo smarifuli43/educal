@@ -19,7 +19,7 @@ const Home = () => {
           <div className='row '>
             <div className='col-12 col-md-8 col-lg-6'>
               <div className='mt-5 pt-5'>
-                <h1 className='mt-5'>
+                <h1 className='mt-5 mb-3'>
                   Discover One of the Best learning platform
                 </h1>
                 <p>

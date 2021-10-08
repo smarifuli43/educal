@@ -11,10 +11,10 @@ const Categories = (props) => {
           <Card.Body className='text-center text-white'>
             <Card.Title>{category}</Card.Title>
             <Card.Text>
-              <p style={{ color: '#5C2EDE' }} className="text">{course}</p>
+              <p className="text-white-50">{course}</p>
             </Card.Text>
             <button
-              className='btn btn-primary'
+              className='btn-sm btn-primary'
               style={{
                 backgroundColor: '#5C2EDE',
                 borderColor: '#5C2EDE',
