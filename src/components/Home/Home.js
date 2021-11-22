@@ -35,7 +35,7 @@ const Home = () => {
                     borderColor: '#5C2EDE',
                   }}
                 >
-                  Apply Now
+                  Apply Now 
                 </button>
                 <button className='btn btn-outline-light ms-3 mt-3'>
                   Our Courses
@@ -47,6 +47,7 @@ const Home = () => {
         </div>
       </div>
 
+      
       {/* Categories */}
       <section className="container">
         <h2 className='text-center mt-5 mb-3'> Top Categories</h2>
